@@ -21,7 +21,6 @@ import {
   Upload,
   LogOut,
   History,
-  ClipboardList,
 } from "lucide-react";
 import Logo from "./components/Logo";
 import profilePic from "../public/user_kamil.png"
